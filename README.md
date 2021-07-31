@@ -8,7 +8,7 @@
 - *Create a graph we can see which emoji is most used*
 ## Dependencies
    this program needs the following dependencies or libraries:
-###Libraries:
+### Libraries:
 - __pandas__
 - __numpy__
 - __matplotlib__
@@ -18,7 +18,7 @@
 - __emoji__
 - __plotly.graph_objs__
 - __plotly.offline__
-###Data:
+### Data:
 __link of the data used in this project:__ `https://drive.google.com/file/d/1WHGO6aUlDAu1WgOlZbNyZMAxpyqbRmRR/view?usp=sharing`
 
 
